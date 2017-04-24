@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--/**
+     * The specified dimension is an absolute number of pixels.
+     */
+    public static final int ABSOLUTE = 0;
+
+    /**
+     * The specified dimension holds a float and should be multiplied by the
+     * height or width of the object being animated.
+     */
+    public static final int RELATIVE_TO_SELF = 1;
+
+    /**
+     * The specified dimension holds a float and should be multiplied by the
+     * height or width of the parent of the object being animated.
+     */
+    public static final int RELATIVE_TO_PARENT = 2;-->
+<scale>
+    <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:fromXScale="float"-->
+    <!--android:fromYScale="float"-->
+    <!--android:pivotX="float"-->
+    <!--android:toXScale="float"-->
+    <!--android:toYScale="float"-->
+
+</scale>
